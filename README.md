@@ -1,2 +1,1 @@
-# T-ts-_
-Security Researcher
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=¡Hola,+bienvenido+a+mi+perfil!;Soy+desarrollador+Full+Stack;Espero+que+te+guste+mi+trabajo)](https://git.io/typing-svg)
