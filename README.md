@@ -24,19 +24,19 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>
 </h2><a id="user-content---hi-there--" class="anchor" aria-label="Permalink: 
   Hi there
-  <h2>👋 Hi there, I'm Tätsú_</h2>
-  <p>Passionate developer and technology enthusiast. Welcome to my digital space!</p>
-</div>
+  " href="#--hi-there--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">I'm <strong><a href="https://www.youtube.com/@Vyntr1x" rel="nofollow"><code>Tätsú_</code></a></strong>, a hacker &amp; Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.</p>
+<details>
+  <summary>More about me</summary>
+<ul dir="auto">
+<li><strong>Name</strong>: Tätsú_</li>
+<li><strong>From</strong>: Gye (Ec)</li>
+<li><strong>Bug Hunter</strong> | <strong>Security Researcher</strong> | <strong>forensics Analyst</strong></li>
+<li>i have experience in <strong>Cracking</strong>,<strong>Reverse Engineering</strong>,<strong>Malware Analysis</strong>,<strong>Social engineering</strong>,<strong>Detective</strong></li>
+<li>Improving knowledge in <strong>Webapp Vulnerabilities</strong></li>
+<li>Lifelong learner — always exploring <strong>everything</strong></li>
 
-<details open>
-  <summary><b>More about me</b></summary>
-  <ul dir="auto">
-     <li><strong>Name</strong>: Tätsú_ </li>
-    <li><strong>Focus</strong>: Learning and building innovative projects.</li>
-    <li><strong>Goals</strong>: Improving my skill  cybersecurity.</li>
-    <li>Lifelong learner — always exploring <strong>new technologies</strong>.</li>
-  </ul>
-</details>
+</ul>
 
 <br>
 <hr>
