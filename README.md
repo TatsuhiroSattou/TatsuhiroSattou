@@ -18,9 +18,12 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MDQ0OTcsIm5iZiI6MTc2NjYwNDE5NywicGF0aCI6Ii85NTI2NTg5NS8zODI0Njg1MDYtZTc4ZTEzZmQtOGM4NC00YzIxLTk0NzEtNzlkNTM3NGQ0YTE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI0VDE5MjMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwZDEwMjRiODFjMDJlYmIzYmIwYTE1ZjQwZjM5NDdmNWU5NjMwMDczZjlkNzVjMDBiOTQwNDBlYmQ2ZmE0NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n2tdJpY_tHYD7pNF4Ug-xJp4W34ZDIDel-n-2kzqk_I"><img width="28%" align="right" src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MDQ0OTcsIm5iZiI6MTc2NjYwNDE5NywicGF0aCI6Ii85NTI2NTg5NS8zODI0Njg1MDYtZTc4ZTEzZmQtOGM4NC00YzIxLTk0NzEtNzlkNTM3NGQ0YTE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI0VDE5MjMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwZDEwMjRiODFjMDJlYmIzYmIwYTE1ZjQwZjM5NDdmNWU5NjMwMDczZjlkNzVjMDBiOTQwNDBlYmQ2ZmE0NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n2tdJpY_tHYD7pNF4Ug-xJp4W34ZDIDel-n-2kzqk_I" data-animated-image="" style="max-width: 100%;"></a>
+<div class="markdown-heading" dir="auto"><h2 align="left" class="heading-element" dir="auto">
+  Hi there
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>
+</h2><a id="user-content---hi-there--" class="anchor" aria-label="Permalink: 
+  Hi there
   <h2>👋 Hi there, I'm Tätsú_</h2>
   <p>Passionate developer and technology enthusiast. Welcome to my digital space!</p>
 </div>
