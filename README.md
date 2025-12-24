@@ -40,12 +40,14 @@
 
 <br>
 <hr>
-
-<h2 align="left"> Present Status </h2>
-<p>👉 Currently working on personal projects.</p>
-<p>👉 Learning more  Ciberseguridad and Tools.</p>
-<p>👉  Contributing por un lugar mas seguro.</p>
-
+<div class="markdown-heading" dir="auto"><h2 id="user-content-present_status" class="heading-element" dir="auto"> Present Status </h2><a id="user-content--present-status-" class="anchor" aria-label="Permalink:  Present Status " href="#-present-status-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MDQ0OTcsIm5iZiI6MTc2NjYwNDE5NywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUwNzA2LTljODI2ZGQwLWZkNzItNDliYS1hZjYwLWU3OWY2NDM0NGY1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyNFQxOTIzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDlkOWMxMzM0M2FmMmQyZTA4ODdhNjhhMzJlMzVkMTQxNTk0Y2VhMmExYWI0YTQwNzQ1MDIzNjE5OWVjZjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.74ftMdGhnZnhWB94LtWZFbb82-QIjmpuxfSqPTn7IVI"><img width="25%" align="right" src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MDQ0OTcsIm5iZiI6MTc2NjYwNDE5NywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUwNzA2LTljODI2ZGQwLWZkNzItNDliYS1hZjYwLWU3OWY2NDM0NGY1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyNFQxOTIzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDlkOWMxMzM0M2FmMmQyZTA4ODdhNjhhMzJlMzVkMTQxNTk0Y2VhMmExYWI0YTQwNzQ1MDIzNjE5OWVjZjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.74ftMdGhnZnhWB94LtWZFbb82-QIjmpuxfSqPTn7IVI" data-animated-image="" style="max-width: 100%;"></a>
+<p dir="auto">👉 Still Learning Bug hunting &amp; malware forensics.</p>
+<p dir="auto">👉 Managing Tech Communities &amp; Content creator.</p>
+<p dir="auto">👉 Writing Some Useful Tools For Myself &amp; Communities</p>
+<p dir="auto">👉 Building &amp; Contributing To Open Source Projects</p>
+<p dir="auto">👉 Currently Learning mobile pentesting &amp; web3</p>
+<p dir="auto"><code>Updating:</code>  Journey to Cybersecurity Specialist.</p>
 <hr>
 
 <h2 align="left"> Knowledge & Skills </h2>
